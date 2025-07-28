@@ -73,4 +73,5 @@ To deliver a fully interactive, business-ready Power BI dashboard that:
 🏞️ Screenshot / Demos
 Example :
 
+1] Exec Dashboard - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Exec%20Dashboard.png)
 
