@@ -76,5 +76,6 @@ Example :
 1] Exec Dashboard - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Exec%20Dashboard.png)
 2] Exec Dashboard 2 -(https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Exec%20Dashboard%202.png)
 3] Map View -(https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Map%20View.png)
-4] Product Detail - ()
+4] Product Detail - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Product%20Detail.png)
+5] Customer Detail - ()
 
