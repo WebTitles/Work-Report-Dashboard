@@ -79,4 +79,4 @@ Example :
 4] Product Detail - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Product%20Detail.png)
 5] Customer Detail - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Customer%20Detail.png)
 6] Decomposition Tree Looks - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Decomposition%20Tree.png)
-7] Key Influencers - () 
+7] Key Influencers - (https://github.com/WebTitles/Work-Report-Dashboard/blob/main/Key%20Influencers.png) 
