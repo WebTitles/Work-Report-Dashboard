@@ -2,6 +2,7 @@
 
 🚴‍♂️ Project Title / Headline
 AdventureWorks BI Dashboard:
+
 Interactive Sales & Returns Analysis
 
 A modern, enterprise-grade Power BI dashboard built to analyze product-level sales, customer segmentation, regional performance, and return metrics for a global manufacturing company.
